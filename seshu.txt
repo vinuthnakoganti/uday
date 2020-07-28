@@ -3,6 +3,7 @@
   passing:0;
   local
   sahara
+  remote:0
   margin: 0;
 }
 
